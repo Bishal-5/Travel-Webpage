@@ -1,0 +1,79 @@
+body{
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    background: url(Victoria-Background-Image.jpg);
+    background-size: cover;
+}
+.nav-logo{
+    position: absolute;
+    left: 34px;
+    top: 20px;
+    display: inline-block;
+}
+.nav-logo img{
+    position: absolute;
+    top: 1px;
+    width: 60px;
+    filter: invert();
+}
+.nav-logo div{
+    color: red;
+    position: absolute;
+    top: 1.6cm;
+    left: 0px;
+    width: 5cm;
+}
+.nav-option{
+    position: absolute;
+    right: 1.5cm;
+    top: 2px;
+}
+.nav-option-content{
+    display: inline-block;
+}
+.nav-option-content li{
+    font-size: 21px;
+    display: inline-block;
+}
+.nav-option-content li a{
+    color: black;
+    text-decoration: none;
+    padding: 20px 20px;
+}
+.nav-option-content li a:hover, .nav-option-content li a.active{
+    text-decoration: underline;
+    color: red;
+}
+.form-box{
+    margin: 180px 50px;
+    padding: 14px 5px;
+    border-radius: 20px;
+    width: 33%;
+    background-color: black;
+}
+.form-box h1{
+    text-align: center;
+}
+.form input{
+    text-align: center;
+    display: block;
+    width: 353px;
+    padding: 8px;
+    border: 2px solid black;
+    margin: 3px auto;
+}
+.submit-button{
+    background-color: aqua;
+    border: 2px solid aqua;
+    border-radius: 3px;
+    display: inline-block;
+    margin: 3px auto;
+    text-align: center;
+    width: 11.7cm;
+    cursor: pointer;
+}
+.submit-button:hover, .submit-button.active{
+    text-decoration: underline;
+    color: red;
+}
