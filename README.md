@@ -15,6 +15,6 @@ This HTML and CSS project features a visually appealing travel webpage where use
 Contributions are welcome! If you find a bug or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 <h2>Made by</h2>
-<a href="https://github.com/Bishal-5">Bishal Naskar</a>
+<li><a href="https://github.com/Bishal-5">Bishal Naskar</a></li>
 <li><a href="https://www.linkedin.com/in/bishal-naskar-2a5716250/">LinkedIN</a></li>
 
